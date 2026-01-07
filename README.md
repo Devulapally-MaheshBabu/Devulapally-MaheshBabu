@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NextJs Projects** 
 
-- 🌱 I’m currently learning **ReactJs, NuxtJs** 
+- 🌱 I’m currently learning **TypeScript** 
 
 - 🤝 I’m looking for help with **Web Developer** 
 
