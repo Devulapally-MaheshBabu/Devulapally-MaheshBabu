@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/deepanshu_1106" target="blank"><img src="https://img.shields.io/twitter/follow/deepanshu_1106?logo=twitter&style=for-the-badge" alt="deepanshu_1106" /></a> </p> -->
 
-- 🔭 I’m currently working on **NextJs Project** 
+- 🔭 I’m currently working on **NextJs** 
 
 - 🌱 I’m currently learning **TypeScript** 
 
