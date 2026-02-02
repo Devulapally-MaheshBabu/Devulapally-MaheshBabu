@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/sumit-chouhan-developer" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/in/mahesh-babu-5bb437334" height="50" width="50" /></a>
 </p>
 
-### 🚀 My Tech Toolbox:
+### 🚀 My Tech Toolbox :
 
 #### 💻 Languages & Fundamentals:
 <p align="left">
