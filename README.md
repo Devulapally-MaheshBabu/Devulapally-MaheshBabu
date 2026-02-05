@@ -25,12 +25,12 @@
 
 ### 🚀 My Tech Toolbox :
 
-#### 💻 Languages & Fundamentals:
+#### 💻 Languages & Fundamentals :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c" alt="Languages" />
 </p>
 
-#### 🌐 Frontend Development:
+#### 🌐 Frontend Development :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,materialui" alt="Frontend Tools" />
   <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white" />
