@@ -23,14 +23,14 @@
 <a href="https://www.linkedin.com/in/sumit-chouhan-developer" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/in/mahesh-babu-5bb437334" height="50" width="50" /></a>
 </p>
 
-### 🚀 My Tech Toolbox :
+### 🚀 My Tech Toolbox:
 
-#### 💻 Languages & Fundamentals :
+#### 💻 Languages & Fundamentals:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c" alt="Languages" />
 </p>
 
-#### 🌐 Frontend Development :
+#### 🌐 Frontend Development:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,materialui" alt="Frontend Tools" />
   <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white" />
